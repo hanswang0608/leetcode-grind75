@@ -1,5 +1,7 @@
 # leetcode-grind75
 
-Grind 75 - https://www.techinterviewhandbook.org/grind75?weeks=8&hours=12
+My attempt at the
+[Grind 75](https://www.techinterviewhandbook.org/grind75?weeks=8&hours=12)
+leetcode challenge
 
-My leetcode profile https://leetcode.com/hansw0168/
+My leetcode [profile](https://leetcode.com/hansw0168/)
