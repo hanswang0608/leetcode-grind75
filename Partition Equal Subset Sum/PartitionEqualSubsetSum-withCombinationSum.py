@@ -1,5 +1,6 @@
 from typing import List
 
+# use backtracking to find the actual 2 subarrays that are equal, time limit error
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
         return len(self.combinationSum(nums, sum(nums)/2)) > 0
